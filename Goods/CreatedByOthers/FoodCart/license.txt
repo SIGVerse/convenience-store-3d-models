@@ -1,0 +1,11 @@
+Model Information:
+* title:	Food cart
+* source:	https://sketchfab.com/3d-models/food-cart-4d9b418b79364283bacc3fc18c0f5f41
+* author:	MrPuppet (https://sketchfab.com/MrPuppet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Food cart" (https://sketchfab.com/3d-models/food-cart-4d9b418b79364283bacc3fc18c0f5f41) by MrPuppet (https://sketchfab.com/MrPuppet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

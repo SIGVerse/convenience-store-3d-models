@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nikuman (Steam Bun)
+* source:	https://sketchfab.com/3d-models/nikuman-steam-bun-9a7c076e4e464f5f943de1c1540f4019
+* author:	Terrie Simmons-Ehrhardt (https://sketchfab.com/terrielsimmons)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nikuman (Steam Bun)" (https://sketchfab.com/3d-models/nikuman-steam-bun-9a7c076e4e464f5f943de1c1540f4019) by Terrie Simmons-Ehrhardt (https://sketchfab.com/terrielsimmons) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

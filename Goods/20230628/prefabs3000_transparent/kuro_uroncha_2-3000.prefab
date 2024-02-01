@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5095316074516485057}
   - component: {fileID: 7953671013110557323}
   - component: {fileID: 6864795919316258335}
+  - component: {fileID: 6586847444212207238}
   m_Layer: 0
   m_Name: kuro_uroncha_2-3000
   m_TagString: Untagged
@@ -85,3 +86,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6586847444212207238
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4035257733295538426}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 74ac0719a64504a42a11cdc6961a295c, type: 3}

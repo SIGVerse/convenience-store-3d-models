@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1178321476269206196}
   - component: {fileID: 4074933577112835070}
   - component: {fileID: 695991266487072618}
+  - component: {fileID: 870499747358991767}
   m_Layer: 0
   m_Name: toilet_magiclean_tumekae-3000
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &870499747358991767
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992783632100194703}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 0e7d856a0a576a24fb9934bf9f0fc6a3, type: 3}

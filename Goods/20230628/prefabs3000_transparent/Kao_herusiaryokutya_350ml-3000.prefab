@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7395155882106340959}
   - component: {fileID: 5654252064930594581}
   - component: {fileID: 9174477213223345025}
+  - component: {fileID: 1315809710139222970}
   m_Layer: 0
   m_Name: Kao_herusiaryokutya_350ml-3000
   m_TagString: Untagged
@@ -85,3 +86,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &1315809710139222970
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1735839042681492836}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 6e072bc9aceae074b8989b70b9386ac7, type: 3}

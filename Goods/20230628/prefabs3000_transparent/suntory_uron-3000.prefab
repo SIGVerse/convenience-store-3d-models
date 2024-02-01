@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2743885030543048142}
   - component: {fileID: 1063715624915928196}
   - component: {fileID: 4604554141673889808}
+  - component: {fileID: 1334179116593291355}
   m_Layer: 0
   m_Name: suntory_uron-3000
   m_TagString: Untagged
@@ -85,3 +86,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &1334179116593291355
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6386688780754595573}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 39d6e2291833727478543cab34589708, type: 3}

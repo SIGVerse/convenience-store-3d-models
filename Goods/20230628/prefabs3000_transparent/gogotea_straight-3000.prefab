@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8063754862239459192}
   - component: {fileID: 5133849650507193906}
   - component: {fileID: 8510293870714403494}
+  - component: {fileID: 3071075399641473892}
   m_Layer: 0
   m_Name: gogotea_straight-3000
   m_TagString: Untagged
@@ -85,3 +86,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3071075399641473892
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1251465426215547971}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 09ac78d6c23e45647845245cc3dc872a, type: 3}

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4708833418093633718}
   - component: {fileID: 7606030391913716220}
   - component: {fileID: 6389401117942660456}
+  - component: {fileID: 1282287575196601742}
   m_Layer: 0
   m_Name: kleenex_hadaururu_240-3000
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &1282287575196601742
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4606914644536963981}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 5ca0dbc16f297f545998a8b2c7f31a46, type: 3}

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8029224966326995957}
   - component: {fileID: 5168626920295527103}
   - component: {fileID: 8547582425195042347}
+  - component: {fileID: 9021695430200132080}
   m_Layer: 0
   m_Name: Oi_Ocha_350-3000
   m_TagString: Untagged
@@ -85,3 +86,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &9021695430200132080
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1286805662197635278}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 7be6857f5f45c4d40b8dd04f258c5a7a, type: 3}

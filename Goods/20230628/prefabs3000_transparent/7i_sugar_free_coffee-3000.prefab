@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8964373168000517815}
   - component: {fileID: 6102648777898000381}
   - component: {fileID: 7319841001809894249}
+  - component: {fileID: 7345087841283785041}
   m_Layer: 0
   m_Name: 7i_sugar_free_coffee-3000
   m_TagString: Untagged
@@ -85,3 +86,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7345087841283785041
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 203214594350044556}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: fbb3121d008ff534389d13ac6a727031, type: 3}

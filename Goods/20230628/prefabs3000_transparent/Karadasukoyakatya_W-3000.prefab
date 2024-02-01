@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1810807795915881660}
   - component: {fileID: 3600178497964787190}
   - component: {fileID: 59634649799057762}
+  - component: {fileID: 4108091499915400497}
   m_Layer: 0
   m_Name: Karadasukoyakatya_W-3000
   m_TagString: Untagged
@@ -85,3 +86,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4108091499915400497
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7464548598626971527}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 7b8271e887371224f8b10796303b44e6, type: 3}

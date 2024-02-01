@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4263501784162985350}
   - component: {fileID: 1440077748015291596}
   - component: {fileID: 2511202326090774616}
+  - component: {fileID: 2126518025764364059}
   m_Layer: 0
   m_Name: Sou_ken_bitya600ml-3000
   m_TagString: Untagged
@@ -85,3 +86,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2126518025764364059
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5016217472250508989}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: a967aa6b979eb07489c6708be7d157b4, type: 3}

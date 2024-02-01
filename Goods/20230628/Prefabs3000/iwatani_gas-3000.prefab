@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1285202953924378158}
   - component: {fileID: 4108085618134992740}
   - component: {fileID: 587544085891441648}
+  - component: {fileID: 4594772338922555458}
   m_Layer: 0
   m_Name: iwatani_gas-3000
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4594772338922555458
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8026498897527434517}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 250fa2280ff2d3648a2bcbb80e827ea9, type: 3}

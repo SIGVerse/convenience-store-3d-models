@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4262395350000816123}
   - component: {fileID: 1436717140231157425}
   - component: {fileID: 2510058059407184421}
+  - component: {fileID: 6268566405316361682}
   m_Layer: 0
   m_Name: ayataka_houjicha-3000
   m_TagString: Untagged
@@ -85,3 +86,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6268566405316361682
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5012856591474318528}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 80bec4822b3a94942ac16161aea8992c, type: 3}

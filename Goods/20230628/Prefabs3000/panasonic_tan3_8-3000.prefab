@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4399740454875704577}
   - component: {fileID: 1574056441296852043}
   - component: {fileID: 2665446942666469599}
+  - component: {fileID: 6670782741478025715}
   m_Layer: 0
   m_Name: panasonic_tan3_8-3000
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6670782741478025715
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4879979896754290234}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 9de0e0f7b0fa97c4aae73147439b5032, type: 3}

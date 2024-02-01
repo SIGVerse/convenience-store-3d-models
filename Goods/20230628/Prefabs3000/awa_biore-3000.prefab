@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3231407106866763285}
   - component: {fileID: 292572316470439775}
   - component: {fileID: 3831110664101186507}
+  - component: {fileID: 8633169326070150476}
   m_Layer: 0
   m_Name: awa_biore-3000
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8633169326070150476
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5939804646345884974}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 4c925b25e2db4e148abbd0b1a8ef9c10, type: 3}

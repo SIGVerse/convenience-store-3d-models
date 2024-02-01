@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 371949022692254318}
   - component: {fileID: 3314160000238230308}
   - component: {fileID: 2079529255559053232}
+  - component: {fileID: 7834571313789082401}
   m_Layer: 0
   m_Name: irohasu-3000
   m_TagString: Untagged
@@ -85,3 +86,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7834571313789082401
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8907912067235590485}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 1a928814038b0cb41bac467f2699ede6, type: 3}

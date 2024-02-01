@@ -11,8 +11,9 @@ GameObject:
   - component: {fileID: 7387674688982145442}
   - component: {fileID: 5643403548823576808}
   - component: {fileID: 9184211288437146748}
+  - component: {fileID: 1867801479757064879}
   m_Layer: 0
-  m_Name: seven_tappuriguzai_seafoodnoodle_origin-3000
+  m_Name: seven_tappuriguzai_seafoodnoodle-3000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &1867801479757064879
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1743004667315669657}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2432090755550338912, guid: 6867431e7b698194a87f1ae53ef2b722, type: 3}

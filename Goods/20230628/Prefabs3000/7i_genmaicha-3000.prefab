@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 912927942082780587}
   - component: {fileID: 4435734476739082559}
   - component: {fileID: 3133854432110611915}
+  - component: {fileID: 8196726653922392523}
   m_Layer: 0
   m_Name: 7i_genmaicha-3000
   m_TagString: Untagged
@@ -97,3 +98,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.085099, y: 0.13140601, z: 0.073853}
   m_Center: {x: -0.0010104999, y: 0.065073, z: -0.000050500035}
+--- !u!54 &8196726653922392523
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6542145872575297498}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

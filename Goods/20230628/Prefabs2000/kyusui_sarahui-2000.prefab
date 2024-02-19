@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1629251675164306849}
   - component: {fileID: 4488800855453258987}
   - component: {fileID: 1112062250184732799}
+  - component: {fileID: 7669687898245315651}
   - component: {fileID: 7630386200967923428}
   m_Layer: 0
   m_Name: kyusui_sarahui-2000
@@ -84,6 +85,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!54 &7669687898245315651
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7505931276533038746}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!64 &7630386200967923428
 MeshCollider:
   m_ObjectHideFlags: 0

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5473117187614893522}
   - component: {fileID: 8850084766234296646}
   - component: {fileID: 5921994529996163328}
+  - component: {fileID: 3662151212587449611}
   m_Layer: 0
   m_Name: 7i_barley_tea-3000
   m_TagString: Untagged
@@ -100,3 +101,19 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -2432090755550338912, guid: 75be869eab8489845bb8b3368ef2dd78, type: 3}
+--- !u!54 &3662151212587449611
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2131727885468356515}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

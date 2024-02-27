@@ -256,7 +256,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2988533668674053828, guid: 36028dc85935b0d42abb4f913c0ea5a8, type: 3}
       propertyPath: m_Name
-      value: house_mixtew_cream_origin-1000
+      value: house_mixtew_cream-1000
       objectReference: {fileID: 0}
     - target: {fileID: 6121900931289313536, guid: 36028dc85935b0d42abb4f913c0ea5a8, type: 3}
       propertyPath: m_RootOrder
@@ -729,7 +729,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6950306589803472692, guid: f5e0601d320cdac4ea4cdcad66032fd2, type: 3}
       propertyPath: m_Name
-      value: goldencurry_tyu_kara_origin-1000
+      value: goldencurry_tyu_kara-1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f5e0601d320cdac4ea4cdcad66032fd2, type: 3}
@@ -1721,7 +1721,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8453543970358977887, guid: 1c2bcd916cb2ad54984d1880508249a9, type: 3}
       propertyPath: m_Name
-      value: chilitimato_origin-1000
+      value: chilitimato-1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c2bcd916cb2ad54984d1880508249a9, type: 3}
@@ -1925,7 +1925,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4061409412796244713, guid: 1b98ed6c7e464124c92c25887478fa6f, type: 3}
       propertyPath: m_Name
-      value: javacurry_tyu_kara_origin-1000
+      value: javacurry_tyu_kara-1000
       objectReference: {fileID: 0}
     - target: {fileID: 7718158450961003679, guid: 1b98ed6c7e464124c92c25887478fa6f, type: 3}
       propertyPath: m_RootOrder
@@ -2744,7 +2744,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5578658807293976541, guid: dc4c485412b407843b12c47734a7bc20, type: 3}
       propertyPath: m_Name
-      value: seven_kokutoumamicurry_tyu_kara_origin-1000
+      value: seven_kokutoumamicurry_tyu_kara-1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dc4c485412b407843b12c47734a7bc20, type: 3}
@@ -3792,7 +3792,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2742112948992865508, guid: 07beee0d4ab1c7349aa6fdd013374593, type: 3}
       propertyPath: m_Name
-      value: vermontcurry_tyu_kara_origin-1000
+      value: vermontcurry_tyu_kara-1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07beee0d4ab1c7349aa6fdd013374593, type: 3}
@@ -4706,7 +4706,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5440723226913616250, guid: c9768c93a3bc26440befca1f9bd96956, type: 3}
       propertyPath: m_Name
-      value: vermontcurry_amakuchi_origin-1000
+      value: vermontcurry_amakuchi-1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9768c93a3bc26440befca1f9bd96956, type: 3}
@@ -5388,7 +5388,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6999853915149487936, guid: 102448896c68a2141825a5ca51e1df5a, type: 3}
       propertyPath: m_Name
-      value: creap_origin-1000
+      value: creap-1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 102448896c68a2141825a5ca51e1df5a, type: 3}
@@ -9200,7 +9200,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4001315666207430427, guid: 0fe6e50719c53b14daaf3a445cb7207f, type: 3}
       propertyPath: m_Name
-      value: seven_kokutoumamicurry_karakuvhi_origin-1000
+      value: seven_kokutoumamicurry_karakuvhi-1000
       objectReference: {fileID: 0}
     - target: {fileID: 4637420945300808916, guid: 0fe6e50719c53b14daaf3a445cb7207f, type: 3}
       propertyPath: m_RootOrder
@@ -10600,7 +10600,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1259043278507340202, guid: 9f17b8c6d6721a046854c6fee86d7477, type: 3}
       propertyPath: m_Name
-      value: seven_sauce_mayo_monja_origin-1000
+      value: seven_sauce_mayo_monja-1000
       objectReference: {fileID: 0}
     - target: {fileID: 8680901300924641939, guid: 9f17b8c6d6721a046854c6fee86d7477, type: 3}
       propertyPath: m_RootOrder
@@ -13936,7 +13936,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1743004667315669657, guid: 1cf27b22e46c0ea40b72f2de5e3bcdbd, type: 3}
       propertyPath: m_Name
-      value: seven_tappuriguzai_seafoodnoodle_origin-3000
+      value: seven_tappuriguzai_seafoodnoodle-3000
       objectReference: {fileID: 0}
     - target: {fileID: 7387674688982145442, guid: 1cf27b22e46c0ea40b72f2de5e3bcdbd, type: 3}
       propertyPath: m_RootOrder

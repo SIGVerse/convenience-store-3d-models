@@ -1117,6 +1117,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 613461493}
     m_Modifications:
+    - target: {fileID: 3413711819875609525, guid: a2f1a58d0f935444aaac1090e202fd31, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413711819875609525, guid: a2f1a58d0f935444aaac1090e202fd31, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.521
+      objectReference: {fileID: 0}
     - target: {fileID: 4763209963862603214, guid: a2f1a58d0f935444aaac1090e202fd31, type: 3}
       propertyPath: m_Name
       value: CVK64GUKO6L
@@ -1169,7 +1177,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: a2f1a58d0f935444aaac1090e202fd31, type: 3}
 --- !u!4 &217476249 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 4763209963862895086, guid: a2f1a58d0f935444aaac1090e202fd31, type: 3}
+  m_CorrespondingSourceObject: {fileID: 3413711819875609525, guid: a2f1a58d0f935444aaac1090e202fd31, type: 3}
   m_PrefabInstance: {fileID: 217476248}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &220389620
@@ -2512,6 +2520,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 613461493}
     m_Modifications:
+    - target: {fileID: 5916339294056649930, guid: 17beb96eae14bca479246b8c85878990, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916339294056649930, guid: 17beb96eae14bca479246b8c85878990, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916339294056649930, guid: 17beb96eae14bca479246b8c85878990, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.44
+      objectReference: {fileID: 0}
     - target: {fileID: 8102395905646363104, guid: 17beb96eae14bca479246b8c85878990, type: 3}
       propertyPath: m_Name
       value: CVK34GUKO6G
@@ -2564,7 +2584,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 17beb96eae14bca479246b8c85878990, type: 3}
 --- !u!4 &465134040 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 8879601519873350490, guid: 17beb96eae14bca479246b8c85878990, type: 3}
+  m_CorrespondingSourceObject: {fileID: 5916339294056649930, guid: 17beb96eae14bca479246b8c85878990, type: 3}
   m_PrefabInstance: {fileID: 465134039}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &469428207
@@ -3829,10 +3849,10 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 465134040}
+  - {fileID: 217476249}
   - {fileID: 469428208}
   - {fileID: 1284947931}
-  - {fileID: 217476249}
+  - {fileID: 465134040}
   - {fileID: 1166483293}
   - {fileID: 1655853461}
   - {fileID: 1700939135}
